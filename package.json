@@ -1,0 +1,29 @@
+{
+  "name": "g-editor",
+  "version": "1.0.0",
+  "description": "Advanced WYSIWYG HTML editor designed to simplify website content creation",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlakvGhost/g-editor.git"
+  },
+  "keywords": [
+    "editor",
+    "javascript",
+    "WYSIWYG"
+  ],
+  "author": "BlakvGhost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlakvGhost/g-editor/issues"
+  },
+  "homepage": "https://github.com/BlakvGhost/g-editor#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
+  }
+}
